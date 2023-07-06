@@ -24,7 +24,7 @@ let snake = [
 ];
 
 window.addEventListener("keydown", changeDirection);
-resetBtn.addEventListener("keclickdown", resetGame);
+resetBtn.addEventListener("click", resetGame);
 
 gameStart();
 
